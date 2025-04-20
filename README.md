@@ -1,5 +1,5 @@
-## Họ và tên: Nguyễn Tiến Thanh
-## MSV: 228103103882
+## Họ và tên: Lê Thái Nam
+## MSV: 22810310397
 ## Kết quả:
 ## Trang SplashScreen
 ![](./assets/pages/SplashScreen.jpg)
